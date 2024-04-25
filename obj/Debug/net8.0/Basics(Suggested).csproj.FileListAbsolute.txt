@@ -1,0 +1,14 @@
+C:\Users\TheTahaYaseen\source\repos\Basics(Suggested)\obj\Debug\net8.0\Basics(Suggested).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheTahaYaseen\source\repos\Basics(Suggested)\obj\Debug\net8.0\Basics(Suggested).AssemblyInfoInputs.cache
+C:\Users\TheTahaYaseen\source\repos\Basics(Suggested)\obj\Debug\net8.0\Basics(Suggested).AssemblyInfo.cs
+C:\Users\TheTahaYaseen\source\repos\Basics(Suggested)\obj\Debug\net8.0\Basics(Suggested).csproj.CoreCompileInputs.cache
+C:\Users\TheTahaYaseen\source\repos\Basics(Suggested)\bin\Debug\net8.0\Basics(Suggested).exe
+C:\Users\TheTahaYaseen\source\repos\Basics(Suggested)\bin\Debug\net8.0\Basics(Suggested).deps.json
+C:\Users\TheTahaYaseen\source\repos\Basics(Suggested)\bin\Debug\net8.0\Basics(Suggested).runtimeconfig.json
+C:\Users\TheTahaYaseen\source\repos\Basics(Suggested)\bin\Debug\net8.0\Basics(Suggested).dll
+C:\Users\TheTahaYaseen\source\repos\Basics(Suggested)\bin\Debug\net8.0\Basics(Suggested).pdb
+C:\Users\TheTahaYaseen\source\repos\Basics(Suggested)\obj\Debug\net8.0\Basics(Suggested).dll
+C:\Users\TheTahaYaseen\source\repos\Basics(Suggested)\obj\Debug\net8.0\refint\Basics(Suggested).dll
+C:\Users\TheTahaYaseen\source\repos\Basics(Suggested)\obj\Debug\net8.0\Basics(Suggested).pdb
+C:\Users\TheTahaYaseen\source\repos\Basics(Suggested)\obj\Debug\net8.0\Basics(Suggested).genruntimeconfig.cache
+C:\Users\TheTahaYaseen\source\repos\Basics(Suggested)\obj\Debug\net8.0\ref\Basics(Suggested).dll
